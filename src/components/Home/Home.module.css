@@ -1,0 +1,18 @@
+
+     .headerSection {
+  background-color: #1abc9c; /* نفس لون الخلفية */
+  min-height: 100vh;
+  text-align: center;
+}
+
+.line {
+  width: 80px;
+  height: 4px;
+  background-color: white;
+}
+
+.fathy {
+  width: 200px;
+  /* height: 150px; */
+  /* border-radius: 50%; */
+}

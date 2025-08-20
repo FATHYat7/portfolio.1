@@ -1,0 +1,12 @@
+
+
+.about {
+  background-color: #1abc9c;
+  min-height: 100vh;
+}
+
+.line {
+  width: 80px;
+  height: 4px;
+  background-color: white; 
+}
